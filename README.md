@@ -96,6 +96,8 @@ These instructions will guide you on how to get a copy of the project up and run
      3. Connect to the local server which has the required databases added in step one.
 
 
+![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/6a0f9aa7-efbf-49cb-89fc-0a551739b878)
+
 
 
 ### Running the Project
