@@ -56,6 +56,10 @@ This project is a Point of Sales (POS) system designed for a pizza shop. It is a
 ## Testing
 A sub-project associated with this one is Testing. We use C# and NUnit framework to perform integration and unit testing on the application.
 
+
+![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/5bb6117f-ed12-44e3-9a88-4bb4c2c08fcf)
+
+
 ## Getting Started
 (Provide instructions on how to install and run your application)
 
