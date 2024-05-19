@@ -87,6 +87,16 @@ These instructions will guide you on how to get a copy of the project up and run
 
   ![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/489ee78e-697f-42b0-92bb-864a4c3b3f34)
 
+  2. **Connect to the local server with the required databases**. To do this, follow the steps below:
+
+
+     1. In Visual studio , open the **SQL Server Object Explorer** tab from the **View** menu at the 
+        top.
+     2. Click on the **Add SQL Server** option.
+     3. Connect to the local server which has the required databases added in step one.
+
+
+
 
 ### Running the Project
 
