@@ -61,29 +61,36 @@ A sub-project associated with this one is Testing. We use C# and NUnit framework
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will guide you on how to get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
+- Visual Studio 2022
 - .NET Framework v4.7.2
 - C# v7.3
 - NUnit v3.12.0
 
 ### Installation
 
-1. Clone the repo: `git clone https://github.com/your_username/your_project.git`
-2. Navigate to the project directory: `cd your_project`
-3. Install dependencies: `...`
+1. Clone the repository: `git clone https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-.git`
+2. Navigate to the project directory: `cd Point-of-sales-system-for-pizza-store-`
 
 ### Configuration
 
-1. Set up the database: `...`
-2. Set environment variables: `...`
+1. Attach the three database files present in the Database project manually to your local database server.
 
 ### Running the Project
 
-To run the project, use the following command: `...`
+To run the project, open it in Visual Studio 2022 and press the start button on top.
 
 ### Running the Tests
 
-To run the tests, use the following command: `...`
+To run the tests, right-click on the Unit test project and click on the "Run Test" option.
+
+### Dependencies for Unit Testing
+
+The dependencies for the unit testing projects are Nunit3TestAdapter, NUnit, and NUnitForms.Framework. These can be installed from the NuGet package manager in Visual Studio.
+
+### Note
+
+No environment variables are required for this project. The project is a Windows application targeting .NET Framework 4.7.2. The NUnit Framework is used for writing tests in this project.
