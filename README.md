@@ -5,7 +5,36 @@ This project is a Point of Sales (POS) system designed for a pizza shop. It is a
 
 ## Features
 - Login Page
+  
 ![Screenshot 2024-05-19 201921](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/3e8c98b8-71fa-4545-a0fe-3aed0ed76862)
+
+- Administrator Controls
+  
+  ![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/f32596b9-8d93-44e8-bc8c-8b3c7250f3f6)
+
+
+- Creating new Employees credentials
+
+![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/2ea50e06-77ef-4363-a771-1899ccd0be5c)
+
+- Price adjustments
+
+![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/6f7b634d-8bfe-4d76-82b1-7a9c867a00fc)
+
+- Point of Sales Tab
+
+  ![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/bee30c5c-d299-4f5b-864b-65d164413c75)
+
+- Order Recipt Tab
+
+  ![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/11fea470-d00e-4b86-a009-96c4694c542a)
+
+
+
+![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/4b69adb6-e134-4821-898f-acefdfab92f1)
+
+
+  
 
 
 
