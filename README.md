@@ -50,8 +50,8 @@ This project is a Point of Sales (POS) system designed for a pizza shop. It is a
 - Generate a receipt for the customer.
 
 ## Discounts
-- New customers will avail a 20% discount.
-- Existing customers will avail a 10% discount on their total bill.
+- New customers will avail a 10% discount.
+- Existing customers will avail a 20% discount on their total bill.
 
 ## Testing
 A sub-project associated with this one is Testing. We use C# and NUnit framework to perform integration and unit testing on the application.
