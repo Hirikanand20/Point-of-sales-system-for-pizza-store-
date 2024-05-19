@@ -77,14 +77,23 @@ These instructions will guide you on how to get a copy of the project up and run
 
 ### Configuration
 
-1. Attach the three database files present in the Database project manually to your local database server.
+1. **Attach the three database files** present in the Database project manually to your local database server. To do this, follow the steps below:
+
+    1. Open **SQL Server Management Studio (SSMS)**.
+    2. Connect to your local server.
+    3. Click on **File > Open > File...** and navigate to your `.sql` file in the database folder in the project directory.
+    4. With the file open in the SSMS interface, click **Execute**. Repeat this process for all three SQL files.
+
+
+  ![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/489ee78e-697f-42b0-92bb-864a4c3b3f34)
+
 
 ### Running the Project
 
 To run the project, open it in Visual Studio 2022 and press the start button on top.
 
 ### Running the Tests
-
+s
 To run the tests, right-click on the Unit test project and click on the "Run Test" option.
 
 ### Dependencies for Unit Testing
