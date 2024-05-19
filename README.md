@@ -59,7 +59,31 @@ A sub-project associated with this one is Testing. We use C# and NUnit framework
 
 ![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/5bb6117f-ed12-44e3-9a88-4bb4c2c08fcf)
 
-
 ## Getting Started
-(Provide instructions on how to install and run your application)
 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- .NET Framework v4.7.2
+- C# v7.3
+- NUnit v3.12.0
+
+### Installation
+
+1. Clone the repo: `git clone https://github.com/your_username/your_project.git`
+2. Navigate to the project directory: `cd your_project`
+3. Install dependencies: `...`
+
+### Configuration
+
+1. Set up the database: `...`
+2. Set environment variables: `...`
+
+### Running the Project
+
+To run the project, use the following command: `...`
+
+### Running the Tests
+
+To run the tests, use the following command: `...`
