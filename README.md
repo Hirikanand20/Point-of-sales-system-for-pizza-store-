@@ -100,6 +100,18 @@ These instructions will guide you on how to get a copy of the project up and run
 
 
 
+3. **Retrieve the databases from the attached SQL Server in Visual Studio**. To do this, follow the steps below:
+
+    1. Open **Server Explorer** from the **View** menu at the top.
+    2. Right-click on **Data Connections** and then click on **Add Connection** option.
+    3. Change the **Data Source** to **Microsoft SQL Server**.
+    4. Write the name of the local server in the field. It will automatically scan all the databases in the server.
+    5. Select the database which you added in step 1. 
+
+
+![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/ba76db52-914f-4e22-8b58-52563350d760)
+
+
 ### Running the Project
 
 To run the project, open it in Visual Studio 2022 and press the start button on top.
