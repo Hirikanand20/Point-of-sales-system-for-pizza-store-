@@ -5,7 +5,6 @@ This project is a Point of Sales (POS) system designed for a pizza shop. It is a
 
 ## Features
 -Login Page
-![Screenshot 2024-05-19 201921](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/3e8c98b8-71fa-4545-a0fe-3aed0ed76862)
 
 
 ### Admin
