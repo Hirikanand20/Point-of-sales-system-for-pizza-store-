@@ -1,0 +1,92 @@
+C:\Users\hirik\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hirik\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hirik\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hirik\source\repos\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\hirik\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hirik\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hirik\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.billing.resources
+C:\Users\hirik\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\hirik\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hirik\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hirik\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hirik\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\hirik\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hirik\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hirik\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.setting.resources
+C:\Users\hirik\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.admin.resources
+C:\Users\hirik\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\bin\Debug\nunit.framework.dll
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\bin\Debug\nunit.framework.legacy.dll
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\bin\Debug\NUnitForms.dll
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\bin\Debug\nunit.framework.xml
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\bin\Debug\nunit.framework.legacy.xml
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.admin.resources
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.billing.resources
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.setting.resources
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hirik\OneDrive\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\nunit.framework.dll
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\nunit.framework.legacy.dll
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\NUnitForms.dll
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\nunit.framework.xml
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\nunit.framework.legacy.xml
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.admin.resources
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.billing.resources
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.setting.resources
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hirik\OneDrive\Desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\nunit.framework.dll
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\nunit.framework.legacy.dll
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\NUnitForms.dll
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\nunit.framework.xml
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\nunit.framework.legacy.xml
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.admin.resources
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.billing.resources
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.login.resources
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.setting.resources
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\desktop\POS-Managmentsys-main\project copy\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
