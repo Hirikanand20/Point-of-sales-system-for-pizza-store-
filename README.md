@@ -112,6 +112,23 @@ These instructions will guide you on how to get a copy of the project up and run
 ![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/ba76db52-914f-4e22-8b58-52563350d760)
 
 
+
+4. **Connect the database with various program files**. To do this, follow the steps below:
+
+    1. Click on the **database name** in the **Server Explorer**.
+    2. In the **Properties** window, find the **Connection String** property and **copy** the connection string.
+  
+     ![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/2182c8dd-063e-4e57-ad3c-81d38a54a9f2)
+
+  
+    3. Open the program file where the database connection is established. Look for the **SQL connection object** in the code.
+    4. **Replace** the existing connection string in the SQL connection object with the connection string you copied.
+
+![image](https://github.com/Hirikanand20/Point-of-sales-system-for-pizza-store-/assets/76699698/003b606a-adb4-4406-b53e-6b5be242f31c)
+   5. Repeat these steps for all the databases used in the project.
+
+
+
 ### Running the Project
 
 To run the project, open it in Visual Studio 2022 and press the start button on top.
